@@ -1,0 +1,552 @@
+[
+  {
+    "id": "klanaja",
+    "lemma": {
+      "cyrillic": "кланая",
+      "latin": "klanaja"
+    },
+    "ipa": "/kla.na.ja/",
+    "root": "klan",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "clan"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "hosheta",
+    "lemma": {
+      "cyrillic": "хошета",
+      "latin": "hosheta"
+    },
+    "ipa": "/xo.ʃe.ta/",
+    "root": "hoshet",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "beginning"
+      },
+      {
+        "definition": "start"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tera",
+    "lemma": {
+      "cyrillic": "тэра",
+      "latin": "tèra"
+    },
+    "ipa": "/tɛ.ra/",
+    "root": "tèr",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "earth"
+      },
+      {
+        "definition": "land"
+      },
+      {
+        "definition": "soil"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "aved",
+    "lemma": {
+      "cyrillic": "авэд",
+      "latin": "avèd"
+    },
+    "ipa": "/a.vɛd/",
+    "root": "avèd",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "god"
+      },
+      {
+        "definition": "deity"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "njavo",
+    "lemma": {
+      "cyrillic": "няво",
+      "latin": "njavo"
+    },
+    "ipa": "/nja.vo/",
+    "root": "njav",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "sky"
+      },
+      {
+        "definition": "heaven"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ai",
+    "lemma": {
+      "cyrillic": "аи",
+      "latin": "ai"
+    },
+    "ipa": "/ai/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "and"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tshoriti",
+    "lemma": {
+      "cyrillic": "чорити",
+      "latin": "tshoriti"
+    },
+    "ipa": "/t͡ʃo.ri.ti/",
+    "root": "tshor",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "to create"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tshore",
+    "lemma": {
+      "cyrillic": "чоре",
+      "latin": "tshore"
+    },
+    "ipa": "/t͡ʃo.re/",
+    "root": "tshor",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "creation"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vo",
+    "lemma": {
+      "cyrillic": "во",
+      "latin": "vo"
+    },
+    "ipa": "/vo/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "in"
+      },
+      {
+        "definition": "within"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zo",
+    "lemma": {
+      "cyrillic": "зо",
+      "latin": "zo"
+    },
+    "ipa": "/zo/",
+    "root": null,
+    "partOfSpeech": [
+      "determiner"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "the"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ja",
+    "lemma": {
+      "cyrillic": "я",
+      "latin": "ja"
+    },
+    "ipa": "/ja/",
+    "root": null,
+    "partOfSpeech": [
+      "determiner"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "the"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "to",
+    "lemma": {
+      "cyrillic": "то",
+      "latin": "to"
+    },
+    "ipa": "/to/",
+    "root": null,
+    "partOfSpeech": [
+      "determiner"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "the"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "trono",
+    "lemma": {
+      "cyrillic": "троно",
+      "latin": "trono"
+    },
+    "ipa": "/tro.no/",
+    "root": "tro",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "ground"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "anvro",
+    "lemma": {
+      "cyrillic": "анвро",
+      "latin": "anvro"
+    },
+    "ipa": "/an.vro/",
+    "root": "anvr",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "human"
+      },
+      {
+        "definition": "person"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "manov",
+    "lemma": {
+      "cyrillic": "мано̀в",
+      "latin": "manòv"
+    },
+    "ipa": "/ma.nɔv/",
+    "root": "man",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "man"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "jena",
+    "lemma": {
+      "cyrillic": "йена",
+      "latin": "jena"
+    },
+    "ipa": "/je.na/",
+    "root": "jen",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "woman"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "minjanov",
+    "lemma": {
+      "cyrillic": "минйано̀в",
+      "latin": "minjanòv"
+    },
+    "ipa": "/min.ja.nɔv/",
+    "root": "minja",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "child"
+      },
+      {
+        "definition": "kid"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "drash",
+    "lemma": {
+      "cyrillic": "драш",
+      "latin": "drash"
+    },
+    "ipa": "/draʃ/",
+    "root": "drash",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "friend"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "familija",
+    "lemma": {
+      "cyrillic": "фамилия",
+      "latin": "familija"
+    },
+    "ipa": "/fa.mi.li.ja/",
+    "root": "famili",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "family"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nom",
+    "lemma": {
+      "cyrillic": "ном",
+      "latin": "nom"
+    },
+    "ipa": "/nom/",
+    "root": "nom",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "name"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "grupa",
+    "lemma": {
+      "cyrillic": "група",
+      "latin": "grupa"
+    },
+    "ipa": "/gru.pa/",
+    "root": "grup",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "group"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "koper",
+    "lemma": {
+      "cyrillic": "копер",
+      "latin": "koper"
+    },
+    "ipa": "/ko.per/",
+    "root": "kop",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "body"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "lyn",
+    "lemma": {
+      "cyrillic": "лын",
+      "latin": "lyn"
+    },
+    "ipa": "/lɪn/",
+    "root": "lyn",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "mind"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vily",
+    "lemma": {
+      "cyrillic": "вилы",
+      "latin": "vily"
+    },
+    "ipa": "/vi.lɪ/",
+    "root": "vily",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "life"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nevily",
+    "lemma": {
+      "cyrillic": "невилы",
+      "latin": "nevily"
+    },
+    "ipa": "/ne.vi.lɪ/",
+    "root": "vily",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "death"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vilyiti",
+    "lemma": {
+      "cyrillic": "вилыити",
+      "latin": "vilyiti"
+    },
+    "ipa": "/vi.lɪ.i.ti/",
+    "root": "vily",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "to heal"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vilyitja",
+    "lemma": {
+      "cyrillic": "вилыитя",
+      "latin": "vilyitja"
+    },
+    "ipa": "/vi.lɪ.it.ja/",
+    "root": "vily",
+    "partOfSpeech": [
+      "interjection",
+      "verb"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "hello"
+      },
+      {
+        "definition": "greetings"
+      },
+      {
+        "definition": "heal!"
+      }
+    ],
+    "notes": null
+  }
+]

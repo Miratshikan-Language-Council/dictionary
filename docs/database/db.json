@@ -10,7 +10,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "clan"
@@ -29,7 +31,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "beginning"
@@ -51,7 +55,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "earth"
@@ -76,7 +82,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "neuter"
+    },
     "meanings": [
       {
         "definition": "god"
@@ -98,7 +106,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "masculine"
+    },
     "meanings": [
       {
         "definition": "sky"
@@ -158,7 +168,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "neuter"
+    },
     "meanings": [
       {
         "definition": "creation"
@@ -265,7 +277,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "masculine"
+    },
     "meanings": [
       {
         "definition": "ground"
@@ -284,7 +298,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "masculine"
+    },
     "meanings": [
       {
         "definition": "human"
@@ -306,7 +322,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "masculine"
+    },
     "meanings": [
       {
         "definition": "man"
@@ -325,7 +343,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "woman"
@@ -344,7 +364,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "masculine"
+    },
     "meanings": [
       {
         "definition": "child"
@@ -366,7 +388,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "friend"
@@ -385,7 +409,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "family"
@@ -404,7 +430,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "masculine"
+    },
     "meanings": [
       {
         "definition": "name"
@@ -423,7 +451,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "group"
@@ -442,7 +472,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "neuter"
+    },
     "meanings": [
       {
         "definition": "body"
@@ -461,7 +493,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "mind"
@@ -480,7 +514,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "life"
@@ -499,7 +535,9 @@
     "partOfSpeech": [
       "noun"
     ],
-    "grammar": {},
+    "grammar": {
+      "gender": "feminine"
+    },
     "meanings": [
       {
         "definition": "death"

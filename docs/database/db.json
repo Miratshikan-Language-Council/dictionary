@@ -184,6 +184,9 @@
       },
       {
         "definition": "within"
+      },
+      {
+        "definition": "inside"
       }
     ],
     "notes": null
@@ -545,6 +548,566 @@
       },
       {
         "definition": "heal!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "oko",
+    "lemma": {
+      "cyrillic": "око",
+      "latin": "oko"
+    },
+    "ipa": "/o.ko/",
+    "root": "ok",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "eye"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ava",
+    "lemma": {
+      "cyrillic": "ава",
+      "latin": "ava"
+    },
+    "ipa": "/a.va/",
+    "root": "ava",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "water"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "pure",
+    "lemma": {
+      "cyrillic": "пу̀ре",
+      "latin": "püre"
+    },
+    "ipa": "/py.re/",
+    "root": "pyr",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "fire"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "val",
+    "lemma": {
+      "cyrillic": "вал",
+      "latin": "val"
+    },
+    "ipa": "/val/",
+    "root": "val",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "air"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "asa",
+    "lemma": {
+      "cyrillic": "аса",
+      "latin": "asa"
+    },
+    "ipa": "/a.sa/",
+    "root": "asa",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "sun"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mijon",
+    "lemma": {
+      "cyrillic": "мийо̀н",
+      "latin": "mijòn"
+    },
+    "ipa": "/mi.jɔn/",
+    "root": "mijòn",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "moon"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "sha",
+    "lemma": {
+      "cyrillic": "ша",
+      "latin": "sha"
+    },
+    "ipa": "/ʃa/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "on"
+      },
+      {
+        "definition": "upon"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "osh",
+    "lemma": {
+      "cyrillic": "о̀ш",
+      "latin": "òsh"
+    },
+    "ipa": "/ɔʃ/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "under"
+      },
+      {
+        "definition": "below"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ta",
+    "lemma": {
+      "cyrillic": "та",
+      "latin": "ta"
+    },
+    "ipa": "/ta/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "above"
+      },
+      {
+        "definition": "over"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "evny",
+    "lemma": {
+      "cyrillic": "эвны",
+      "latin": "èvny"
+    },
+    "ipa": "/ɛv.nɪ/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "beside"
+      },
+      {
+        "definition": "next to"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tsivy",
+    "lemma": {
+      "cyrillic": "цивы",
+      "latin": "tsivy"
+    },
+    "ipa": "/t͡si.vɪ/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "between"
+      },
+      {
+        "definition": "among"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zadu",
+    "lemma": {
+      "cyrillic": "заду",
+      "latin": "zadu"
+    },
+    "ipa": "/za.du/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "behind"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "udaz",
+    "lemma": {
+      "cyrillic": "удаз",
+      "latin": "udaz"
+    },
+    "ipa": "/u.daz/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "before"
+      },
+      {
+        "definition": "in front of"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "pol",
+    "lemma": {
+      "cyrillic": "пол",
+      "latin": "pol"
+    },
+    "ipa": "/pol/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "after"
+      },
+      {
+        "definition": "following"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "os",
+    "lemma": {
+      "cyrillic": "о̀с",
+      "latin": "òs"
+    },
+    "ipa": "/ɔs/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "with"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "osne",
+    "lemma": {
+      "cyrillic": "о̀сне",
+      "latin": "òsne"
+    },
+    "ipa": "/ɔs.ne/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "without"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "du",
+    "lemma": {
+      "cyrillic": "ду",
+      "latin": "du"
+    },
+    "ipa": "/du/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "from"
+      },
+      {
+        "definition": "out of"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "al",
+    "lemma": {
+      "cyrillic": "ал",
+      "latin": "al"
+    },
+    "ipa": "/al/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "to"
+      },
+      {
+        "definition": "towards"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "pra",
+    "lemma": {
+      "cyrillic": "пра",
+      "latin": "pra"
+    },
+    "ipa": "/pra/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "for"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "na",
+    "lemma": {
+      "cyrillic": "на",
+      "latin": "na"
+    },
+    "ipa": "/na/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "of"
+      },
+      {
+        "definition": "belonging to"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "odno",
+    "lemma": {
+      "cyrillic": "о̀дно",
+      "latin": "òdno"
+    },
+    "ipa": "/ɔd.no/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "about"
+      },
+      {
+        "definition": "concerning"
+      },
+      {
+        "definition": "regarding"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vija",
+    "lemma": {
+      "cyrillic": "вия",
+      "latin": "vija"
+    },
+    "ipa": "/vi.ja/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "through"
+      },
+      {
+        "definition": "across"
+      },
+      {
+        "definition": "via"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "okolo",
+    "lemma": {
+      "cyrillic": "о̀ко̀ло",
+      "latin": "òkòlo"
+    },
+    "ipa": "/ɔ.kɔ.lo/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "around"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nah",
+    "lemma": {
+      "cyrillic": "нах",
+      "latin": "nah"
+    },
+    "ipa": "/nax/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "near"
+      },
+      {
+        "definition": "close to"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "anti",
+    "lemma": {
+      "cyrillic": "анти",
+      "latin": "anti"
+    },
+    "ipa": "/an.ti/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "against"
+      },
+      {
+        "definition": "contra"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "podtshas",
+    "lemma": {
+      "cyrillic": "подчас",
+      "latin": "podtshas"
+    },
+    "ipa": "/pod.t͡ʃas/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "during"
+      },
+      {
+        "definition": "so long as"
+      },
+      {
+        "definition": "amid"
       }
     ],
     "notes": null

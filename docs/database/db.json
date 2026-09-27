@@ -248,10 +248,10 @@
   {
     "id": "to",
     "lemma": {
-      "cyrillic": "то",
-      "latin": "to"
+      "cyrillic": "те",
+      "latin": "te"
     },
-    "ipa": "/to/",
+    "ipa": "/te/",
     "root": null,
     "partOfSpeech": [
       "determiner"
@@ -1718,5 +1718,310 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "apel",
+    "lemma": {
+      "cyrillic": "апел",
+      "latin": "apel"
+    },
+    "ipa": "/a.pel/",
+    "root": "apel",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "apple"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "krejo",
+    "lemma": {
+      "cyrillic": "крейо",
+      "latin": "krejo"
+    },
+    "ipa": "/kre.jo/",
+    "root": "kre",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "tree"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "krena",
+    "lemma": {
+      "cyrillic": "крена",
+      "latin": "krena"
+    },
+    "ipa": "/kre.na/",
+    "root": "kre",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "wood"
+      },
+      {
+        "definition": "timber"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "privjetjana",
+    "lemma": {
+      "cyrillic": "привйэтйана",
+      "latin": "privjètjana"
+    },
+    "ipa": "/pri.vjɛ.tja.na/",
+    "root": "vjet",
+    "partOfSpeech": [
+      "noun",
+      "interjection"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "welcome"
+      },
+      {
+        "definition": "welcome!"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "pri",
+    "lemma": {
+      "cyrillic": "при",
+      "latin": "pri"
+    },
+    "ipa": "/pri/",
+    "root": null,
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "at"
+      }
+    ],
+    "notes": "Used to indicate a specific location, point of presence, or point in time."
+  },
+  {
+    "id": "materijal",
+    "lemma": {
+      "cyrillic": "материйал",
+      "latin": "materijal"
+    },
+    "ipa": "/ma.te.ri.jal/",
+    "root": "mater",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "material"
+      },
+      {
+        "definition": "matter"
+      },
+      {
+        "definition": "substance"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "keisatja",
+    "lemma": {
+      "cyrillic": "кэисатя",
+      "latin": "kèisatja"
+    },
+    "ipa": "/kɛi.sat.ja/",
+    "root": "kèisat",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "police"
+      },
+      {
+        "definition": "police force"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "voika",
+    "lemma": {
+      "cyrillic": "во̀ика",
+      "latin": "vòika"
+    },
+    "ipa": "/vɔi.ka/",
+    "root": "vòik",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "fight"
+      },
+      {
+        "definition": "struggle"
+      },
+      {
+        "definition": "combat"
+      },
+      {
+        "definition": "battle"
+      },
+      {
+        "definition": "conflict"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "voikiti",
+    "lemma": {
+      "cyrillic": "во̀икити",
+      "latin": "vòikiti"
+    },
+    "ipa": "/vɔi.ki.ti/",
+    "root": "vòik",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "to fight"
+      },
+      {
+        "definition": "to combat"
+      },
+      {
+        "definition": "to struggle"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "voikny",
+    "lemma": {
+      "cyrillic": "во̀икны",
+      "latin": "vòikny"
+    },
+    "ipa": "/vɔik.nɪ/",
+    "root": "vòik",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "combatative"
+      },
+      {
+        "definition": "martial"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "purvoikje",
+    "lemma": {
+      "cyrillic": "пу̀рво̀икйе",
+      "latin": "pürvòikje"
+    },
+    "ipa": "/pyr.vɔik.je/",
+    "root": "pür-vòik",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "firefighter"
+      }
+    ],
+    "notes": "fire (root) + fight (root) + -je agent suffix."
+  },
+  {
+    "id": "purvoiko",
+    "lemma": {
+      "cyrillic": "пу̀рво̀ико",
+      "latin": "pürvòiko"
+    },
+    "ipa": "/pyr.vɔi.ko/",
+    "root": "pür-vòik",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "firefighting"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "purvoikstvo",
+    "lemma": {
+      "cyrillic": "пу̀рво̀икство",
+      "latin": "pürvòikstvo"
+    },
+    "ipa": "/pyr.vɔik.stvo/",
+    "root": "pür-vòik",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "firefighting agency"
+      },
+      {
+        "definition": "fire-and-rescue service"
+      }
+    ],
+    "notes": "fire (root) + fight (root) + -stvo (institutional/organizational suffix)"
   }
 ]

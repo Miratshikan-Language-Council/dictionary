@@ -2784,5 +2784,137 @@
       }
     ],
     "notes": "becomes \"clothes\" if pluralized."
+  },
+  {
+    "id": "slevkniga",
+    "lemma": {
+      "cyrillic": "слэвкнига",
+      "latin": "slèvkniga"
+    },
+    "ipa": "/slɛv.kni.ga/",
+    "root": "slèvknig",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "dictionary"
+      }
+    ],
+    "notes": "slèv (root, \"word\") + kniga (book)"
+  },
+  {
+    "id": "miratshikany",
+    "lemma": {
+      "cyrillic": "мирачиканы",
+      "latin": "miratshikany"
+    },
+    "ipa": "/mi.ra.t͡ʃi.ka.nɪ/",
+    "root": "miratshik",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "miratshikan"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "uskam",
+    "lemma": {
+      "cyrillic": "ускам",
+      "latin": "uskam"
+    },
+    "ipa": "/us.kam/",
+    "root": "uskam",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "searching"
+      },
+      {
+        "definition": "search"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "uskamiti",
+    "lemma": {
+      "cyrillic": "ускамити",
+      "latin": "uskamiti"
+    },
+    "ipa": "/us.ka.mi.ti/",
+    "root": "uskam",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "to search"
+      },
+      {
+        "definition": "to seek"
+      },
+      {
+        "definition": "to look for"
+      },
+      {
+        "definition": "to look up"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "anglija",
+    "lemma": {
+      "cyrillic": "англия",
+      "latin": "anglija"
+    },
+    "ipa": "/ang.li.ja/",
+    "root": "angl",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "england"
+      }
+    ],
+    "notes": "angl (root, \"england, english\") + -ija (country suffix)"
+  },
+  {
+    "id": "angliny",
+    "lemma": {
+      "cyrillic": "англины",
+      "latin": "angliny"
+    },
+    "ipa": "/ang.li.nɪ/",
+    "root": "angl",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "english"
+      }
+    ],
+    "notes": null
   }
 ]

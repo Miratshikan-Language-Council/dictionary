@@ -1149,5 +1149,363 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "ili",
+    "lemma": {
+      "cyrillic": "или",
+      "latin": "ili"
+    },
+    "ipa": "/i.li/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "or"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "se",
+    "lemma": {
+      "cyrillic": "се",
+      "latin": "se"
+    },
+    "ipa": "/se/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "but"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "jer",
+    "lemma": {
+      "cyrillic": "йер",
+      "latin": "jer"
+    },
+    "ipa": "/jer/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "because"
+      },
+      {
+        "definition": "since"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ako",
+    "lemma": {
+      "cyrillic": "ако",
+      "latin": "ako"
+    },
+    "ipa": "/a.ko/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "if"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "kijam",
+    "lemma": {
+      "cyrillic": "кийам",
+      "latin": "kijam"
+    },
+    "ipa": "/ki.jam/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "when"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ke",
+    "lemma": {
+      "cyrillic": "ке",
+      "latin": "ke"
+    },
+    "ipa": "/ke/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "that"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "takozhe",
+    "lemma": {
+      "cyrillic": "такоже",
+      "latin": "takozhe"
+    },
+    "ipa": "/ta.ko.ʒe/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "so"
+      },
+      {
+        "definition": "so that"
+      },
+      {
+        "definition": "therefore"
+      },
+      {
+        "definition": "thus"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "stavyna",
+    "lemma": {
+      "cyrillic": "ставына",
+      "latin": "stavyna"
+    },
+    "ipa": "/sta.vɪ.na/",
+    "root": "stavyn",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "star"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tag",
+    "lemma": {
+      "cyrillic": "таг",
+      "latin": "tag"
+    },
+    "ipa": "/tag/",
+    "root": "tag",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "day"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nozhe",
+    "lemma": {
+      "cyrillic": "но̀же",
+      "latin": "nòzhe"
+    },
+    "ipa": "/nɔ.ʒe/",
+    "root": "nozh",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "night"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "svetla",
+    "lemma": {
+      "cyrillic": "свэтла",
+      "latin": "svètla"
+    },
+    "ipa": "/svɛt.la/",
+    "root": "svèt",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "light"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mrak",
+    "lemma": {
+      "cyrillic": "мрак",
+      "latin": "mrak"
+    },
+    "ipa": "/mrak/",
+    "root": "mrak",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "dark"
+      },
+      {
+        "definition": "darkness"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vrem",
+    "lemma": {
+      "cyrillic": "врэм",
+      "latin": "vrèm"
+    },
+    "ipa": "/vrɛm/",
+    "root": "vrèm",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "time"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "jar",
+    "lemma": {
+      "cyrillic": "йар",
+      "latin": "jar"
+    },
+    "ipa": "/jar/",
+    "root": "jar",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "year"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mynat",
+    "lemma": {
+      "cyrillic": "мынат",
+      "latin": "mynat"
+    },
+    "ipa": "/mɪ.nat/",
+    "root": "mynat",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "month"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vohy",
+    "lemma": {
+      "cyrillic": "во̀хы",
+      "latin": "vòhy"
+    },
+    "ipa": "/vɔ.xɪ/",
+    "root": "vòhy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "week"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tshas",
+    "lemma": {
+      "cyrillic": "час",
+      "latin": "tshas"
+    },
+    "ipa": "/t͡ʃas/",
+    "root": "tshas",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "hour"
+      }
+    ],
+    "notes": null
   }
 ]

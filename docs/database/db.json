@@ -2971,5 +2971,24 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "slevarany",
+    "lemma": {
+      "cyrillic": "слэвараны",
+      "latin": "slèvarany"
+    },
+    "ipa": "/slɛ.va.ra.nɪ/",
+    "root": "slèvara",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "language"
+      }
+    ],
+    "notes": null
   }
 ]

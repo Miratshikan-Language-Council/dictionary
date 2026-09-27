@@ -1507,5 +1507,213 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "svetny",
+    "lemma": {
+      "cyrillic": "свэтны",
+      "latin": "svètny"
+    },
+    "ipa": "/svɛt.nɪ/",
+    "root": "svèt",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "light"
+      },
+      {
+        "definition": "bright"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "mrakny",
+    "lemma": {
+      "cyrillic": "мракны",
+      "latin": "mrakny"
+    },
+    "ipa": "/mrak.nɪ/",
+    "root": "mrak",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "dark"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "gabny",
+    "lemma": {
+      "cyrillic": "габны",
+      "latin": "gabny"
+    },
+    "ipa": "/gab.nɪ/",
+    "root": "gab",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "big"
+      },
+      {
+        "definition": "large"
+      },
+      {
+        "definition": "great"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "dorony",
+    "lemma": {
+      "cyrillic": "дороны",
+      "latin": "dorony"
+    },
+    "ipa": "/do.ro.nɪ/",
+    "root": "doro",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "small"
+      },
+      {
+        "definition": "little"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "anvriny",
+    "lemma": {
+      "cyrillic": "анврины",
+      "latin": "anvriny"
+    },
+    "ipa": "/an.vri.nɪ/",
+    "root": "anvr",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "human"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vremny",
+    "lemma": {
+      "cyrillic": "врэмны",
+      "latin": "vrèmny"
+    },
+    "ipa": "/vrɛm.nɪ/",
+    "root": "vrèm",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "temporal"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "jarny",
+    "lemma": {
+      "cyrillic": "йарны",
+      "latin": "jarny"
+    },
+    "ipa": "/jar.nɪ/",
+    "root": "jar",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "yearly"
+      },
+      {
+        "definition": "annual"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tagny",
+    "lemma": {
+      "cyrillic": "тагны",
+      "latin": "tagny"
+    },
+    "ipa": "/tag.nɪ/",
+    "root": "tag",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "daily"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vilyny",
+    "lemma": {
+      "cyrillic": "вилыны",
+      "latin": "vilyny"
+    },
+    "ipa": "/vi.lɪ.nɪ/",
+    "root": "vily",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "living"
+      },
+      {
+        "definition": "alive"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "nevilyny",
+    "lemma": {
+      "cyrillic": "невилыны",
+      "latin": "nevilyny"
+    },
+    "ipa": "/ne.vi.lɪ.nɪ/",
+    "root": "nevily",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "dead"
+      }
+    ],
+    "notes": null
   }
 ]

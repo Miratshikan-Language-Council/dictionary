@@ -2565,5 +2565,224 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "hand",
+    "lemma": {
+      "cyrillic": "ханд",
+      "latin": "hand"
+    },
+    "ipa": "/xand/",
+    "root": "hand",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "hand"
+      },
+      {
+        "definition": "palm"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "glava",
+    "lemma": {
+      "cyrillic": "глава",
+      "latin": "glava"
+    },
+    "ipa": "/gla.va/",
+    "root": "glav",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "head"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "busho",
+    "lemma": {
+      "cyrillic": "бушо",
+      "latin": "busho"
+    },
+    "ipa": "/bu.ʃo/",
+    "root": "bush",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "mouth"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "sahe",
+    "lemma": {
+      "cyrillic": "сахе",
+      "latin": "sahe"
+    },
+    "ipa": "/sa.xe/",
+    "root": "sahe",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "object"
+      },
+      {
+        "definition": "thing"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "slevo",
+    "lemma": {
+      "cyrillic": "слэво",
+      "latin": "slèvo"
+    },
+    "ipa": "/slɛ.vo/",
+    "root": "slèv",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "word"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "slevara",
+    "lemma": {
+      "cyrillic": "слэвара",
+      "latin": "slèvara"
+    },
+    "ipa": "/slɛ.va.ra/",
+    "root": "slèv",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "language"
+      }
+    ],
+    "notes": "slèv (root, \"word\") + -ara (language suffix)"
+  },
+  {
+    "id": "kniga",
+    "lemma": {
+      "cyrillic": "книга",
+      "latin": "kniga"
+    },
+    "ipa": "/kni.ga/",
+    "root": "knig",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "book"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "kamen",
+    "lemma": {
+      "cyrillic": "камен",
+      "latin": "kamen"
+    },
+    "ipa": "/ka.men/",
+    "root": "kam",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "stone"
+      },
+      {
+        "definition": "rock"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vilyje",
+    "lemma": {
+      "cyrillic": "вилыйе",
+      "latin": "vilyje"
+    },
+    "ipa": "/vi.lɪ.je/",
+    "root": "vily",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "animal"
+      }
+    ],
+    "notes": "vily (root, \"life\") + -je (neuter agent suffix)"
+  },
+  {
+    "id": "odesh",
+    "lemma": {
+      "cyrillic": "о̀дэш",
+      "latin": "òdèsh"
+    },
+    "ipa": "/ɔ.dɛʃ/",
+    "root": "òdèsh",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "clothing"
+      }
+    ],
+    "notes": "becomes \"clothes\" if pluralized."
   }
 ]

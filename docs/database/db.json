@@ -3011,5 +3011,71 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "ven",
+    "lemma": {
+      "cyrillic": "вэн",
+      "latin": "vèn"
+    },
+    "ipa": "/vɛn/",
+    "root": "vèn",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "spouse"
+      },
+      {
+        "definition": "marriage partner"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "venika",
+    "lemma": {
+      "cyrillic": "вэника",
+      "latin": "vènika"
+    },
+    "ipa": "/vɛ.ni.ka/",
+    "root": "vèn",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "wife"
+      }
+    ],
+    "notes": "vèn (root, \"spouse\") + -ika (female agent suffix)"
+  },
+  {
+    "id": "venok",
+    "lemma": {
+      "cyrillic": "вэнок",
+      "latin": "vènok"
+    },
+    "ipa": "/vɛ.nok/",
+    "root": "vèn",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "husband"
+      }
+    ],
+    "notes": "vèn (root, \"spouse\") + -ok (male agent suffix)"
   }
 ]

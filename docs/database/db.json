@@ -2023,5 +2023,547 @@
       }
     ],
     "notes": "fire (root) + fight (root) + -stvo (institutional/organizational suffix)"
+  },
+  {
+    "id": "kerdo",
+    "lemma": {
+      "cyrillic": "кэрдо",
+      "latin": "kèrdo"
+    },
+    "ipa": "/kɛr.do/",
+    "root": "kèrd",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "heart"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "kerdny",
+    "lemma": {
+      "cyrillic": "кэрдны",
+      "latin": "kèrdny"
+    },
+    "ipa": "/kɛrd.nɪ/",
+    "root": "kèrd",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "heartfelt"
+      },
+      {
+        "definition": "cardiac"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "kerdodrashok",
+    "lemma": {
+      "cyrillic": "кэрдодрашок",
+      "latin": "kèrdodrashok"
+    },
+    "ipa": "/kɛr.do.dra.ʃok/",
+    "root": "kèrd-drash",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "boyfriend"
+      }
+    ],
+    "notes": "heart + friend + ok (male agent suffix)"
+  },
+  {
+    "id": "kerdodrashika",
+    "lemma": {
+      "cyrillic": "кэрдодрашика",
+      "latin": "kèrdodrashika"
+    },
+    "ipa": "/kɛr.do.dra.ʃi.ka/",
+    "root": "kèrd-drash",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "girlfriend"
+      }
+    ],
+    "notes": "heart + friend + -ika (female agent suffix)"
+  },
+  {
+    "id": "mesto",
+    "lemma": {
+      "cyrillic": "мэсто",
+      "latin": "mèsto"
+    },
+    "ipa": "/mɛs.to/",
+    "root": "mèst",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "place"
+      },
+      {
+        "definition": "site"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "hos",
+    "lemma": {
+      "cyrillic": "хо̀с",
+      "latin": "hòs"
+    },
+    "ipa": "/xɔs/",
+    "root": "hòs",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "home"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "dobuko",
+    "lemma": {
+      "cyrillic": "добукo",
+      "latin": "dobuko"
+    },
+    "ipa": "/do.bu.ko/",
+    "root": "buko",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "house"
+      }
+    ],
+    "notes": "do- (small/little prefix) + buko (building)"
+  },
+  {
+    "id": "buko",
+    "lemma": {
+      "cyrillic": "буко",
+      "latin": "buko"
+    },
+    "ipa": "/bu.ko/",
+    "root": "buko",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "building"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "komnata",
+    "lemma": {
+      "cyrillic": "комната",
+      "latin": "komnata"
+    },
+    "ipa": "/kom.na.ta/",
+    "root": "komnat",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "room"
+      },
+      {
+        "definition": "chamber"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vilejo",
+    "lemma": {
+      "cyrillic": "вилейо",
+      "latin": "vilejo"
+    },
+    "ipa": "/vi.le.jo/",
+    "root": "vile",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "village"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "gavilevosto",
+    "lemma": {
+      "cyrillic": "гавилево̀сто",
+      "latin": "gavilevòsto"
+    },
+    "ipa": "/ga.vi.le.vɔ.sto/",
+    "root": "vile",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "city"
+      },
+      {
+        "definition": "town"
+      },
+      {
+        "definition": "urban settlement"
+      }
+    ],
+    "notes": "ga- (big prefix) + vile (village root) + -sto (place/settlement suffix)"
+  },
+  {
+    "id": "valijana",
+    "lemma": {
+      "cyrillic": "валийана",
+      "latin": "valijana"
+    },
+    "ipa": "/va.li.ja.na/",
+    "root": "val",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "world"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "draga",
+    "lemma": {
+      "cyrillic": "драга",
+      "latin": "draga"
+    },
+    "ipa": "/dra.ga/",
+    "root": "drag",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "way"
+      },
+      {
+        "definition": "road"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "dveri",
+    "lemma": {
+      "cyrillic": "двэри",
+      "latin": "dvèri"
+    },
+    "ipa": "/dvɛ.ri/",
+    "root": "dvèr",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "door"
+      },
+      {
+        "definition": "gate"
+      },
+      {
+        "definition": "entrance"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "oknejo",
+    "lemma": {
+      "cyrillic": "о̀кнейо",
+      "latin": "òknejo"
+    },
+    "ipa": "/ɔk.ne.jo/",
+    "root": "ok",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "window"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "jesyn",
+    "lemma": {
+      "cyrillic": "йэсын",
+      "latin": "jèsyn"
+    },
+    "ipa": "/jɛ.sɪn/",
+    "root": "jèsy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "food"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "drink",
+    "lemma": {
+      "cyrillic": "дринк",
+      "latin": "drink"
+    },
+    "ipa": "/drink/",
+    "root": "drink",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "drink"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "brod",
+    "lemma": {
+      "cyrillic": "брод",
+      "latin": "brod"
+    },
+    "ipa": "/brod/",
+    "root": "brod",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "bread"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "flizhe",
+    "lemma": {
+      "cyrillic": "флиже",
+      "latin": "flizhe"
+    },
+    "ipa": "/fli.ʒe/",
+    "root": "flizh",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "meat"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "flizhy",
+    "lemma": {
+      "cyrillic": "флижы",
+      "latin": "flizhy"
+    },
+    "ipa": "/fli.ʒɪ/",
+    "root": "flizh",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "meaty"
+      },
+      {
+        "definition": "fleshy"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ovos",
+    "lemma": {
+      "cyrillic": "ово̀с",
+      "latin": "ovòs"
+    },
+    "ipa": "/o.vɔs/",
+    "root": "ovòs",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "fruit"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vrunjesyn",
+    "lemma": {
+      "cyrillic": "вру̀нйэсын",
+      "latin": "vrünjèsyn"
+    },
+    "ipa": "/vryn.jɛ.sɪn/",
+    "root": "vrün",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "vegetable"
+      }
+    ],
+    "notes": "vrün (green) + jèsyn (food)"
+  },
+  {
+    "id": "vruny",
+    "lemma": {
+      "cyrillic": "вру̀ны",
+      "latin": "vrüny"
+    },
+    "ipa": "/vry.nɪ/",
+    "root": "vrün",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "green"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "roty",
+    "lemma": {
+      "cyrillic": "ро̀ты",
+      "latin": "ròty"
+    },
+    "ipa": "/rɔ.tɪ/",
+    "root": "ròt",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "red"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "bluny",
+    "lemma": {
+      "cyrillic": "блуны",
+      "latin": "bluny"
+    },
+    "ipa": "/blu.nɪ/",
+    "root": "blu",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "blue"
+      }
+    ],
+    "notes": null
   }
 ]

@@ -151,3 +151,87 @@ footer span {
   margin: 0 .4rem;
   color: var(--line);
 }
+
+/* ---- verb conjugation ---- */
+.conj-wrap {
+  margin-top: .6rem;
+  text-align: right;
+}
+.conj-btn {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--moss);
+  border-radius: 6px;
+  padding: .3rem .7rem;
+  font-size: .78rem;
+  cursor: pointer;
+}
+.conj-btn:hover {
+  border-color: var(--moss);
+}
+.conj-panel {
+  margin-top: .6rem;
+  text-align: left;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: .8rem 1rem;
+}
+.conj-script-toggle {
+  display: flex;
+  gap: .4rem;
+  margin-bottom: .6rem;
+}
+.script-btn {
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: .15rem .65rem;
+  font-size: .75rem;
+  color: var(--muted);
+  cursor: pointer;
+}
+.script-btn.active {
+  border-color: var(--clay);
+  color: var(--clay);
+}
+.conj-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .9rem;
+}
+.conj-table td {
+  padding: .3rem .2rem;
+  border-bottom: 1px solid var(--line);
+}
+.conj-table tr:last-child td {
+  border-bottom: none;
+}
+.conj-label {
+  color: var(--muted);
+  width: 40%;
+}
+.conj-group td {
+  padding-top: .6rem;
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--clay);
+  border-bottom: none;
+}
+
+/* ---- load more ---- */
+#load-more {
+  display: block;
+  margin: 1.5rem auto 0;
+  padding: .6rem 1.4rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--moss);
+  font-size: .9rem;
+  cursor: pointer;
+}
+#load-more:hover {
+  border-color: var(--moss);
+}

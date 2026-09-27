@@ -2916,5 +2916,60 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "konzil",
+    "lemma": {
+      "cyrillic": "ко̀нзил",
+      "latin": "kònzil"
+    },
+    "ipa": "/kɔn.zil/",
+    "root": "kònzil",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "council"
+      },
+      {
+        "definition": "counsel"
+      },
+      {
+        "definition": "deliberation"
+      },
+      {
+        "definition": "advice"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "konziliti",
+    "lemma": {
+      "cyrillic": "ко̀нзилити",
+      "latin": "kònziliti"
+    },
+    "ipa": "/kɔn.zi.li.ti/",
+    "root": "kònzil",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "to counsel"
+      },
+      {
+        "definition": "to advise"
+      },
+      {
+        "definition": "to deliberate"
+      }
+    ],
+    "notes": null
   }
 ]

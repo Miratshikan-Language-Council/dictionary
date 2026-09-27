@@ -2990,5 +2990,26 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "slevarakonzil",
+    "lemma": {
+      "cyrillic": "слэварако̀нзил",
+      "latin": "slèvarakònzil"
+    },
+    "ipa": "/slɛ.va.ra.kɔn.zil/",
+    "root": "slèvara-kònzil",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "language council"
+      }
+    ],
+    "notes": null
   }
 ]

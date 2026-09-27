@@ -26,6 +26,14 @@ h1 {
   color: var(--moss);
   letter-spacing: .01em;
 }
+h2 {
+  margin: .15rem 0 .4rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  font-size: clamp(1.25rem, 3vw, 1.7rem);
+  color: var(--ink);
+  letter-spacing: .02em;
+}
 header p {
   margin: 0;
   color: var(--muted);
@@ -118,4 +126,28 @@ a.lemma-cyr:hover { color: var(--moss); }
   padding: 2rem 0;
   text-align: center;
   display: none;
+}
+footer {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 1.5rem;
+  border-top: 1px solid var(--line);
+  text-align: center;
+  font-size: .78rem;
+  color: var(--muted);
+}
+
+footer a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: var(--moss);
+  text-decoration: underline;
+}
+
+footer span {
+  margin: 0 .4rem;
+  color: var(--line);
 }

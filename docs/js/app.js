@@ -6,7 +6,7 @@ const CONJUGATION_ENDINGS = [
   { label: 'Present',     group: 'Tense', latinEnding: 'ita',  cyrEnding: 'ита' },
   { label: 'Past',        group: 'Tense', latinEnding: 'ite',  cyrEnding: 'ите' },
   { label: 'Future',      group: 'Tense', latinEnding: 'ito',  cyrEnding: 'ито' },
-  { label: 'Imperative',  group: 'Mood',  latinEnding: 'itja', cyrEnding: 'итя' },
+  { label: 'Volitive',    group: 'Mood',  latinEnding: 'itja', cyrEnding: 'итя' },
   { label: 'Conditional', group: 'Mood',  latinEnding: 'itu',  cyrEnding: 'иту' },
 ];
 

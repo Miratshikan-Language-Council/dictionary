@@ -3077,5 +3077,145 @@
       }
     ],
     "notes": "vèn (root, \"spouse\") + -ok (male agent suffix)"
+  },
+  {
+    "id": "jila",
+    "lemma": {
+      "cyrillic": "йила",
+      "latin": "jila"
+    },
+    "ipa": "/ji.la/",
+    "root": "jila",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "force"
+      },
+      {
+        "definition": "power"
+      },
+      {
+        "definition": "strength"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "jilany",
+    "lemma": {
+      "cyrillic": "йиланы",
+      "latin": "jilany"
+    },
+    "ipa": "/ji.la.nɪ/",
+    "root": "jila",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "forceful"
+      },
+      {
+        "definition": "strong"
+      },
+      {
+        "definition": "powerful"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "jilaiti",
+    "lemma": {
+      "cyrillic": "йилаити",
+      "latin": "jilaiti"
+    },
+    "ipa": "/ji.la.i.ti/",
+    "root": "jila",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "to force"
+      },
+      {
+        "definition": "to apply force"
+      },
+      {
+        "definition": "to exert force"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "veter",
+    "lemma": {
+      "cyrillic": "ветер",
+      "latin": "veter"
+    },
+    "ipa": "/ve.ter/",
+    "root": "veter",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "neuter"
+    },
+    "meanings": [
+      {
+        "definition": "wind"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "matika",
+    "lemma": {
+      "cyrillic": "матика",
+      "latin": "matika"
+    },
+    "ipa": "/ma.ti.ka/",
+    "root": "mat",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "feminine"
+    },
+    "meanings": [
+      {
+        "definition": "mother"
+      }
+    ],
+    "notes": "mat (root, \"mother\") + -ika (female agent suffix)"
+  },
+  {
+    "id": "patok",
+    "lemma": {
+      "cyrillic": "паток",
+      "latin": "patok"
+    },
+    "ipa": "/pa.tok/",
+    "root": "pat",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "grammar": {
+      "gender": "masculine"
+    },
+    "meanings": [
+      {
+        "definition": "father"
+      }
+    ],
+    "notes": "pat (root, \"father\") + -ok (male agent suffix)"
   }
 ]

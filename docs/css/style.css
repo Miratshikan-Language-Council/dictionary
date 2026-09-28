@@ -235,3 +235,64 @@ footer span {
 #load-more:hover {
   border-color: var(--moss);
 }
+/* ---- part-of-speech filter chips ---- */
+#filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem;
+  margin-top: .8rem;
+}
+.chip {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  border-radius: 999px;
+  padding: .2rem .7rem;
+  font-family: inherit;
+  font-size: .8rem;
+  cursor: pointer;
+}
+.chip:hover {
+  border-color: var(--moss);
+  color: var(--moss);
+}
+.chip.active {
+  background: var(--moss);
+  border-color: var(--moss);
+  color: #fff;
+}
+.chip-count {
+  margin-left: .2rem;
+  font-size: .72rem;
+  opacity: .65;
+}
+.chip-clear {
+  background: none;
+  border: none;
+  padding: .2rem .3rem;
+  font-family: inherit;
+  font-size: .8rem;
+  color: var(--clay);
+  cursor: pointer;
+}
+.chip-clear:hover { text-decoration: underline; }
+
+/* ---- "did you mean" suggestions ---- */
+.suggest {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  color: var(--moss);
+  text-decoration: underline;
+  cursor: pointer;
+}
+.empty-note {
+  display: block;
+  margin-top: .4rem;
+  font-size: .85rem;
+}
+
+/* An author display rule beats the browser's default for [hidden], so the
+   Load more button needs this to actually disappear when there's nothing more. */
+#load-more[hidden] { display: none; }

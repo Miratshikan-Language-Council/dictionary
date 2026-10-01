@@ -296,3 +296,32 @@ footer span {
 /* An author display rule beats the browser's default for [hidden], so the
    Load more button needs this to actually disappear when there's nothing more. */
 #load-more[hidden] { display: none; }
+
+/* ---- POS tags (e.g. numeral's cardinal/ordinal) ---- */
+.tag-noted {
+  position: relative;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+  cursor: help;
+}
+.tag-tooltip {
+  display: none;
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--ink);
+  color: var(--paper);
+  font-size: .72rem;
+  padding: .25rem .55rem;
+  border-radius: 6px;
+  white-space: nowrap;
+  z-index: 5;
+}
+/* Hover (desktop) and focus (keyboard) show it for free via CSS.
+   .tag-open is toggled by JS so tapping works on touch screens too. */
+.tag-noted:hover .tag-tooltip,
+.tag-noted:focus .tag-tooltip,
+.tag-noted.tag-open .tag-tooltip {
+  display: block;
+}

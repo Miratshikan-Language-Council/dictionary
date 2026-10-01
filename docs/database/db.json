@@ -3217,5 +3217,46 @@
       }
     ],
     "notes": "pat (root, \"father\") + -ok (male agent suffix)"
+  },
+  {
+    "id": "hoti",
+    "lemma": {
+      "cyrillic": "хоти",
+      "latin": "hoti"
+    },
+    "ipa": "/xɔ.ti/",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "although"
+      },
+      {
+        "definition": "though"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ili-ili",
+    "lemma": {
+      "cyrillic": "или ... или ...",
+      "latin": "ili ... ili ..."
+    },
+    "ipa": "/i.li ... i.li .../",
+    "root": null,
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "either ... or ..."
+      }
+    ],
+    "notes": null
   }
 ]

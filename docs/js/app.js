@@ -324,9 +324,22 @@ function renderConjugationBlock(entry) {
 
 // ---- rendering ----
 
+// A POS entry with a matching posTags value gets a dotted underline; hover
+// or tap reveals the tag (e.g. numeral -> "cardinal"). Gender stays a plain
+// pill, since it isn't a POS tag.
+function renderTags(e) {
+  const posTags = e.posTags || {};
+  const pos = e.partOfSpeech.map(p => {
+    const note = posTags[p];
+    return note
+      ? `<span class="tag tag-noted" tabindex="0">${esc(p)}<span class="tag-tooltip">${esc(note)}</span></span>`
+      : `<span class="tag">${esc(p)}</span>`;
+  });
+  const gender = e.grammar.gender ? [`<span class="tag">${esc(e.grammar.gender)}</span>`] : [];
+  return [...pos, ...gender].join('');
+}
+
 function renderEntryHTML(e) {
-  const tags = [...e.partOfSpeech, ...(e.grammar.gender ? [e.grammar.gender] : [])]
-    .map(t => `<span class="tag">${t}</span>`).join('');
   const meanings = e.meanings.map(m => `<li>${m.definition}</li>`).join('');
   const rootNote = e.root ? `root: ${e.root}` : '';
   const conjugation = isConjugableVerb(e) ? renderConjugationBlock(e) : '';
@@ -338,7 +351,7 @@ function renderEntryHTML(e) {
         <span class="lemma-lat">${e.lemma.latin}</span>
         <span class="ipa">${e.ipa || ''}</span>
       </div>
-      <div class="tags">${tags}</div>
+      <div class="tags">${renderTags(e)}</div>
       <ul class="meanings">${meanings}</ul>
       ${rootNote ? `<div class="root-note">${rootNote}</div>` : ''}
       ${conjugation}
@@ -472,8 +485,8 @@ document.getElementById('empty').addEventListener('click', e => {
 
 document.getElementById('load-more').addEventListener('click', loadMore);
 
-// One delegated listener handles every conjugation/script button, including
-// ones added later by "Load more" — no per-entry listeners needed.
+// One delegated listener handles every conjugation/script/tag button,
+// including ones added later by "Load more" — no per-entry listeners needed.
 document.getElementById('results').addEventListener('click', e => {
   const conjBtn = e.target.closest('.conj-btn');
   if (conjBtn) {
@@ -493,5 +506,22 @@ document.getElementById('results').addEventListener('click', e => {
     panel.querySelectorAll('.cyr').forEach(el => { el.hidden = toLatin; });
     panel.querySelectorAll('.lat').forEach(el => { el.hidden = !toLatin; });
     panel.querySelectorAll('.script-btn').forEach(b => b.classList.toggle('active', b === scriptBtn));
+    return;
+  }
+
+  // Hover already shows the tooltip on desktop via CSS; this makes tapping
+  // do the same on touch screens, which have no hover state to trigger it.
+  const tag = e.target.closest('.tag-noted');
+  if (tag) {
+    const wasOpen = tag.classList.contains('tag-open');
+    document.querySelectorAll('.tag-noted.tag-open').forEach(t => t.classList.remove('tag-open'));
+    if (!wasOpen) tag.classList.add('tag-open');
+  }
+});
+
+// Tapping anywhere else closes any open tag tooltip.
+document.addEventListener('click', e => {
+  if (!e.target.closest('.tag-noted')) {
+    document.querySelectorAll('.tag-noted.tag-open').forEach(t => t.classList.remove('tag-open'));
   }
 });

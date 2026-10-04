@@ -3760,5 +3760,93 @@
       }
     ],
     "notes": null
+  },
+  {
+    "id": "da",
+    "lemma": {
+      "cyrillic": "да",
+      "latin": "da"
+    },
+    "ipa": "/da/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "demonstrative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "this (sg., near)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "dai",
+    "lemma": {
+      "cyrillic": "даи",
+      "latin": "dai"
+    },
+    "ipa": "/dai/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "demonstrative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "these (pl., near)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "do",
+    "lemma": {
+      "cyrillic": "до",
+      "latin": "do"
+    },
+    "ipa": "/do/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "demonstrative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "that (sg., far)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "doi",
+    "lemma": {
+      "cyrillic": "дои",
+      "latin": "doi"
+    },
+    "ipa": "/doi/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "demonstrative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "those (pl., far)"
+      }
+    ],
+    "notes": null
   }
 ]

@@ -214,15 +214,14 @@
     "partOfSpeech": [
       "determiner"
     ],
-    "grammar": {
-      "gender": "masculine"
-    },
+    "grammar": {},
     "meanings": [
       {
-        "definition": "the"
+        "definition": "the (sg., masc.)"
       }
     ],
-    "notes": null
+    "notes": null,
+    "posTags": {}
   },
   {
     "id": "ja",
@@ -235,15 +234,14 @@
     "partOfSpeech": [
       "determiner"
     ],
-    "grammar": {
-      "gender": "feminine"
-    },
+    "grammar": {},
     "meanings": [
       {
-        "definition": "the"
+        "definition": "the (sg., fem.)"
       }
     ],
-    "notes": null
+    "notes": null,
+    "posTags": {}
   },
   {
     "id": "to",
@@ -256,15 +254,14 @@
     "partOfSpeech": [
       "determiner"
     ],
-    "grammar": {
-      "gender": "neuter"
-    },
+    "grammar": {},
     "meanings": [
       {
-        "definition": "the"
+        "definition": "the (sg., neut.)"
       }
     ],
-    "notes": null
+    "notes": null,
+    "posTags": {}
   },
   {
     "id": "trono",
@@ -766,10 +763,10 @@
   {
     "id": "ta",
     "lemma": {
-      "cyrillic": "та",
-      "latin": "ta"
+      "cyrillic": "таm",
+      "latin": "tam"
     },
-    "ipa": "/ta/",
+    "ipa": "/tam/",
     "root": null,
     "partOfSpeech": [
       "preposition"
@@ -783,7 +780,8 @@
         "definition": "over"
       }
     ],
-    "notes": null
+    "notes": null,
+    "posTags": {}
   },
   {
     "id": "evny",
@@ -3255,6 +3253,510 @@
     "meanings": [
       {
         "definition": "either ... or ..."
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zhe",
+    "lemma": {
+      "cyrillic": "же",
+      "latin": "zhe"
+    },
+    "ipa": "/ʒe/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "i"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zhem",
+    "lemma": {
+      "cyrillic": "жем",
+      "latin": "zhem"
+    },
+    "ipa": "/ʒem/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "we"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ta-1",
+    "lemma": {
+      "cyrillic": "та",
+      "latin": "ta"
+    },
+    "ipa": "/ta/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "you (sg.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tai",
+    "lemma": {
+      "cyrillic": "таи",
+      "latin": "tai"
+    },
+    "ipa": "/tai/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "you (pl.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "on",
+    "lemma": {
+      "cyrillic": "о̀н",
+      "latin": "òn"
+    },
+    "ipa": "/ɔn/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "he"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "oni",
+    "lemma": {
+      "cyrillic": "о̀ни",
+      "latin": "òni"
+    },
+    "ipa": "/ɔ.ni/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "she"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "onu",
+    "lemma": {
+      "cyrillic": "о̀ну",
+      "latin": "ònu"
+    },
+    "ipa": "/ɔ.nu/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "it"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "one",
+    "lemma": {
+      "cyrillic": "о̀не",
+      "latin": "òne"
+    },
+    "ipa": "/ɔ.ne/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "personal"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "they (sg.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "onei",
+    "lemma": {
+      "cyrillic": "о̀нэи",
+      "latin": "ònèi"
+    },
+    "ipa": "/ɔ.nɛi/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {},
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "they (pl.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zheva",
+    "lemma": {
+      "cyrillic": "жева",
+      "latin": "zheva"
+    },
+    "ipa": "/ʒe.va/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "my"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "zhemja",
+    "lemma": {
+      "cyrillic": "жэмя",
+      "latin": "zhèmja"
+    },
+    "ipa": "/ʒɛm.ja/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "our"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "tava",
+    "lemma": {
+      "cyrillic": "тава",
+      "latin": "tava"
+    },
+    "ipa": "/ta.va/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "your (sg.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "taija",
+    "lemma": {
+      "cyrillic": "таия",
+      "latin": "taija"
+    },
+    "ipa": "/tai.ja/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "your (pl.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "onva",
+    "lemma": {
+      "cyrillic": "о̀нва",
+      "latin": "ònva"
+    },
+    "ipa": "/ɔn.va/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "his"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "oniva",
+    "lemma": {
+      "cyrillic": "о̀нива",
+      "latin": "òniva"
+    },
+    "ipa": "/ɔ.ni.va/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "her"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "onuva",
+    "lemma": {
+      "cyrillic": "о̀нува",
+      "latin": "ònuva"
+    },
+    "ipa": "/ɔ.nu.va/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "its"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "oneva",
+    "lemma": {
+      "cyrillic": "о̀нева",
+      "latin": "òneva"
+    },
+    "ipa": "/ɔ.ne.va/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "their (sg.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "oneija",
+    "lemma": {
+      "cyrillic": "о̀нэия",
+      "latin": "ònèija"
+    },
+    "ipa": "/ɔ.nɛi.ja/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "possessive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "their (pl.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "sem",
+    "lemma": {
+      "cyrillic": "сем",
+      "latin": "sem"
+    },
+    "ipa": "/sem/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "reflexive"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "reflexive pronoun (himself, herself, itself, themselves, etc.)"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "kato",
+    "lemma": {
+      "cyrillic": "като",
+      "latin": "kato"
+    },
+    "ipa": "/ka.to/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "interrogative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "who"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "ito",
+    "lemma": {
+      "cyrillic": "ито",
+      "latin": "ito"
+    },
+    "ipa": "/i.to/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "interrogative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "what"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vis",
+    "lemma": {
+      "cyrillic": "вис",
+      "latin": "vis"
+    },
+    "ipa": "/vis/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "interrogative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "which"
+      }
+    ],
+    "notes": null
+  },
+  {
+    "id": "vakat",
+    "lemma": {
+      "cyrillic": "вакат",
+      "latin": "vakat"
+    },
+    "ipa": "/va.kat/",
+    "root": null,
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "posTags": {
+      "pronoun": "interrogative"
+    },
+    "grammar": {},
+    "meanings": [
+      {
+        "definition": "whose"
       }
     ],
     "notes": null

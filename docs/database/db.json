@@ -353,7 +353,7 @@
   {
     "id": "minjanov",
     "lemma": {
-      "cyrillic": "минйано̀в",
+      "cyrillic": "миняно̀в",
       "latin": "minjanòv"
     },
     "ipa": "/min.ja.nɔv/",
@@ -1233,7 +1233,7 @@
   {
     "id": "kijam",
     "lemma": {
-      "cyrillic": "кийам",
+      "cyrillic": "киям",
       "latin": "kijam"
     },
     "ipa": "/ki.jam/",
@@ -1428,7 +1428,7 @@
   {
     "id": "jar",
     "lemma": {
-      "cyrillic": "йар",
+      "cyrillic": "яр",
       "latin": "jar"
     },
     "ipa": "/jar/",
@@ -1638,7 +1638,7 @@
   {
     "id": "jarny",
     "lemma": {
-      "cyrillic": "йарны",
+      "cyrillic": "ярны",
       "latin": "jarny"
     },
     "ipa": "/jar.nɪ/",
@@ -1786,7 +1786,7 @@
   {
     "id": "privjetjana",
     "lemma": {
-      "cyrillic": "привйэтйана",
+      "cyrillic": "привйэтяна",
       "latin": "privjètjana"
     },
     "ipa": "/pri.vjɛ.tja.na/",
@@ -1828,7 +1828,7 @@
   {
     "id": "materijal",
     "lemma": {
-      "cyrillic": "материйал",
+      "cyrillic": "материял",
       "latin": "materijal"
     },
     "ipa": "/ma.te.ri.jal/",
@@ -2269,7 +2269,7 @@
   {
     "id": "valijana",
     "lemma": {
-      "cyrillic": "валийана",
+      "cyrillic": "валияна",
       "latin": "valijana"
     },
     "ipa": "/va.li.ja.na/",

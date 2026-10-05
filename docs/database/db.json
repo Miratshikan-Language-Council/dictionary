@@ -2742,12 +2742,12 @@
     "notes": null
   },
   {
-    "id": "vilyje",
+    "id": "vilyju",
     "lemma": {
       "cyrillic": "вилыйе",
-      "latin": "vilyje"
+      "latin": "vilyju"
     },
-    "ipa": "/vi.lɪ.je/",
+    "ipa": "/vi.lɪ.ju/",
     "root": "vily",
     "partOfSpeech": [
       "noun"
@@ -2760,7 +2760,7 @@
         "definition": "animal"
       }
     ],
-    "notes": "vily (root, \"life\") + -je (neuter agent suffix)"
+    "notes": "vily (root, \"life\") + -ju (neuter living being suffix)"
   },
   {
     "id": "odesh",
